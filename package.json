@@ -1,0 +1,19 @@
+{
+  "name": "gendata",
+  "version": "1.0.0",
+  "description": "Generacion de datos de personas, familias y cursos para una escuela",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mongo",
+    "escuela",
+    "personas"
+  ],
+  "author": "Juan Arce",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^4.7.2"
+  }
+}
